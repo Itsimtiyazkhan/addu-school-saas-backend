@@ -1,0 +1,16 @@
+# dependencies
+node_modules
+
+# env
+.env
+.env.local
+.env.example
+
+# next
+.next
+
+# uploads
+uploads
+
+# logs
+*.log
