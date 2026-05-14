@@ -70,3 +70,4 @@ module.exports = { app, server, io };
 
 // Super Admin Routes (added)
 // app.use('/api/super-admin', require('./routes/super-admin.routes'));
+app.set('trust proxy', 1);git add backend/src/server.js
